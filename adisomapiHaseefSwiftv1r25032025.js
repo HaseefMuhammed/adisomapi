@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
           background: #fff;
           padding: 15px;
           border-radius: 10px;
+          margin-top: 30px;
           text-align: center;
           z-index: 1000;
           max-width: 90%;
