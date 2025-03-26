@@ -95,4 +95,23 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 
   setTimeout(showAd, 3000); // Show ad after 1 second
+  console.log(`Total rendered ads : ${ads.length}`)    
 });
+
+console.log(`
+    
+ _______  ______  _________ _______  _______  _______ 
+(  ___  )(  __  \ \__   __/(  ____ \(  ___  )(       )
+| (   ) || (  \  )   ) (   | (    \/| (   ) || () () |
+| (___) || |   ) |   | |   | (_____ | |   | || || || |
+|  ___  || |   | |   | |   (_____  )| |   | || |(_)| |
+| (   ) || |   ) |   | |         ) || |   | || |   | |
+| )   ( || (__/  )___) (___/\____) || (___) || )   ( |
+|/     \|(______/ \_______/\_______)(_______)|/     \|
+                                                      
+
+Last updated : 11:33 AM / 26/03/2025
+Released on : 25/03/2025
+Powered by Haseef Swift    
+    `);
+
