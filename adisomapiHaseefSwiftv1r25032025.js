@@ -75,11 +75,11 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.appendChild(adDiv);
 
   const ads = [
-      { img: 'https://placehold.co/1080x1000?text=Advertisment+1', link: 'https://youtube.com' },
-      { img: 'https://placehold.co/1080x1000?text=Advertisment+2', link: 'https://tebinnovations.in' },
-      { img: 'https://placehold.co/1080x1000?text=Advertisment+3', link: 'https://example3.com' },
-      { img: 'https://placehold.co/1080x1000?text=Advertisment+4', link: 'https://example4.com' },
-      { img: 'https://placehold.co/1080x1000?text=Advertisment+5', link: 'https://example5.com' }
+      { img: 'ads/ad1.png', link: 'https://haseef-swift.netlify.app/' },
+      { img: 'ads/ad2.png', link: 'https://shophf.netlify.app/' },
+      { img: 'ads/ad3.png', link: 'https://offerbazaar.teamcrp.in/' },
+      { img: 'ads/ad4.png', link: 'https://offerbazaar.teamcrp.in/' },
+      { img: 'ads/ad5.png', link: 'https://offerbazaar.teamcrp.in/' }
   ];
 
   function showAd() {
@@ -91,8 +91,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   window.closeAd = function () {
       document.getElementById('overlay').style.display = 'none';
-      setTimeout(showAd, 360000); // 6 minutes
+      setTimeout(showAd, 180000 ); // 3 minutes
   };
 
-  setTimeout(showAd, 1000); // Show ad after 1 second
+  setTimeout(showAd, 3000); // Show ad after 1 second
 });
