@@ -75,11 +75,11 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.appendChild(adDiv);
 
   const ads = [
-      { img: 'ads/ad1.png', link: 'https://haseef-swift.netlify.app/' },
-      { img: 'ads/ad2.png', link: 'https://shophf.netlify.app/' },
-      { img: 'ads/ad3.png', link: 'https://offerbazaar.teamcrp.in/' },
-      { img: 'ads/ad4.png', link: 'https://offerbazaar.teamcrp.in/' },
-      { img: 'ads/ad5.png', link: 'https://offerbazaar.teamcrp.in/' }
+      { img: '/ads/ad1.png', link: 'https://haseef-swift.netlify.app/' },
+      { img: '/ads/ad2.png', link: 'https://shophf.netlify.app/' },
+      { img: '/ads/ad3.png', link: 'https://offerbazaar.teamcrp.in/' },
+      { img: '/ads/ad4.png', link: 'https://offerbazaar.teamcrp.in/' },
+      { img: '/ads/ad5.png', link: 'https://offerbazaar.teamcrp.in/' }
   ];
 
   function showAd() {
