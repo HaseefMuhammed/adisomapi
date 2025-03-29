@@ -79,7 +79,9 @@ document.addEventListener("DOMContentLoaded", function () {
     { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad2.png', link: 'https://shophf.netlify.app/' },
     { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad3.png', link: 'https://offerbazaar.teamcrp.in/' },
     { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad4.png', link: 'https://offerbazaar.teamcrp.in/' },
-    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad5.png', link: 'https://offerbazaar.teamcrp.in/' }
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad5.png', link: 'https://offerbazaar.teamcrp.in/' },
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad6.png', link: 'https://exp-eb-teb.netlify.app/' },
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad7.png', link: 'https://exp-eb-teb.netlify.app/' }
   ];
 
   function showAd() {
