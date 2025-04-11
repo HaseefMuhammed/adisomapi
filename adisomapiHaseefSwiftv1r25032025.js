@@ -81,7 +81,11 @@ document.addEventListener("DOMContentLoaded", function () {
     { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad4.png', link: 'https://offerbazaar.teamcrp.in/' },
     { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad5.png', link: 'https://offerbazaar.teamcrp.in/' },
     { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad6.png', link: 'https://exp-eb-teb.netlify.app/' },
-    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad7.png', link: 'https://exp-eb-teb.netlify.app/' }
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad7.png', link: 'https://exp-eb-teb.netlify.app/' },
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad8.png', link: 'https://tebinnovations.in/' },
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad9.png', link: 'https://tebinnovations.in/' },
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad10.png', link: 'https://tebinnovations.in/' },
+    { img: 'https://haseefmuhammed.github.io/adisomapi/ads/ad11.gif', link: 'https://tebinnovations.in/' }
   ];
 
   function showAd() {
@@ -112,7 +116,7 @@ console.log(`
 |/     \|(______/ \_______/\_______)(_______)|/     \|
                                                       
 
-Last updated : 11:33 AM / 26/03/2025
+Last updated : 06:43 AM / 11/04/2025
 Released on : 25/03/2025
 Powered by Haseef Swift    
     `);
